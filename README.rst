@@ -1,6 +1,8 @@
 restructuredText 
 =================================================================================
 
+:Penulis: Yohan Sidik
+
 .. contents:: **Daftar Isi**
 
 Apa itu?
@@ -12,6 +14,8 @@ Manual
 ---------------------------------------------------------------------------------
 
 - `reStructuredText Markup Specification <https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html>`_
+- `Cheatsheet
+  <https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst>`_
 
 Konversi ke Tipe Dokumen Lain
 ---------------------------------------------------------------------------------
