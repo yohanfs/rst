@@ -1,3 +1,7 @@
+.PHONY: all html pdf
+
+all: html pdf
+
 html:
 	rst2html.py --stylesheet=github-pandoc.css README.rst webREADME.html
 	
