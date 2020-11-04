@@ -49,3 +49,18 @@ PDF
 ::
 
         $ rst2pdf README.rst pdfREADME.pdf
+
+Slides       
+*********************************************************************************
+
+- Install `rst2html5slides <https://pypi.org/project/rst2html5slides/>`_
+
+::
+
+        $ pip install rst2html5slides
+
+- Command line
+
+::
+
+        $ rst2html5slides README.rst slidesREADME.html
