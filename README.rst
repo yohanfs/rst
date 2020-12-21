@@ -64,3 +64,27 @@ Slides
 ::
 
         $ rst2html5slides README.rst slidesREADME.html
+
+Viewer
+---------------------------------------------------------------------------------
+
+- Install `restview`_
+
+::
+
+	$ pip3 install restview
+
+- Commnad line
+
+::
+
+	$ restview filename.rst
+
+Setelah menjalankan *command* di atas, maka secara otomatis akan membuka
+browser. 
+
+.. Referensi
+
+.. _`restview`: https://pypi.org/project/restview/
+
+
